@@ -1,4 +1,4 @@
 
 ![alt text][logo]
 
-[logo]: Docs/EO2018_Logo.png
+[logo]: Docs/EO2018_Logo2.png
