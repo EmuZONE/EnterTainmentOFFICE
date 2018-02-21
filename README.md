@@ -21,11 +21,11 @@ Streaming & Multi Media Programm für Audio Books, Spielfilme, TV Serien, Live T
 
 <br>
 <br>
-<b>Dateiname:</b>i>Entertainmen-Office-2018.zip</i>
+<b>Dateiname:</b>i>  Entertainmen-Office-2018.zip</i>
 <br>
-<b>Größe:</b><i>ca. 25 MB</i>
+<b>Größe:</b><i>  ca. 25 MB</i>
 <br>
-<b>Archiv Typ:</b><i>Zip</i>
+<b>Archiv Typ:</b><i>  Zip</i>
 <br>
 <br>
 <a href="https://github.com/EmuZONE/EnterTainmentOFFICE/raw/master/Zip/Entertainmen-Office-2018.zip"><img src="https://raw.githubusercontent.com/EmuZONE/EnterTainmentOFFICE/master/Docs/download-button-55.png"></img></a>
