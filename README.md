@@ -28,4 +28,4 @@ Streaming & Multi Media Programm für Audio Books, Spielfilme, TV Serien, Live T
 <b>Archiv Typ:</b><i>  Zip</i>
 <br>
 <br>
-<a href="https://github.com/EmuZONE/EnterTainmentOFFICE/raw/master/Zip/Entertainmen-Office-2018.zip"><img src="https://raw.githubusercontent.com/EmuZONE/EnterTainmentOFFICE/master/Docs/download-button-55.png"></img></a>
+<a href="https://github.com/EmuZONE/EnterTainmentOFFICE/raw/master/Zip/Entertainmen-Office-2018.zip"><img src="https://raw.githubusercontent.com/EmuZONE/EnterTainmentOFFICE/master/Docs/download-button-50.png"></img></a>
